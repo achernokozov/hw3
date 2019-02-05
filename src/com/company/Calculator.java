@@ -21,4 +21,5 @@ public class Calculator {
         System.out.print("Result = ");
         return div;
     }
+
 }
